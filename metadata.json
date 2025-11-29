@@ -1,0 +1,5 @@
+{
+  "name": "Yuru Camp Handler Learning",
+  "description": "A cozy, Laid-Back Camp themed visualization of the Android Handler/Looper/MessageQueue mechanism. Learn asynchronous messaging by managing a campfire.",
+  "requestFramePermissions": []
+}
